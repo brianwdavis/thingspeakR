@@ -18,3 +18,9 @@ While the intended end user is the farmer, the research technical team also refe
 
 ## Next steps:
 Add tabs for additional metrics from this study: soil water status and crop yield.
+
+
+## See also:
+A previous iteration of this project: https://brianwdavis.shinyapps.io/SoilWater/
+
+Farmers found the interface to be distracting, with too much unnecessary information. However, this app could be retooled so that the intended end-user is the technical team, so they can diagnose errors in the sensor datastream live from mobile devices.
