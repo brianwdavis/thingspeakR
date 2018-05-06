@@ -1,5 +1,5 @@
 # grower-portal
-An iteration of a farmer-facing Shiny app to report back research measurements
+An iteration of a farmer-facing Shiny app to report back research measurements on biomass collection for leaf litter decomposition bags
 
 Live demo: https://brianwdavis.shinyapps.io/Biomass/
 - *Try out "kirk" or "cole"*
