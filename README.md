@@ -1,7 +1,7 @@
 # thingspeakR
 A proto-package for reading and archiving data from www.thingspeak.com
 
-Our hardware team streams remote sensor data via the IoT service ThingSpeak. These scripts retrieve that data for long-term storage and analysis.
+Our [hardware team streams remote sensor data](https://github.com/ArduinoSoilH2O/Cellular-Gateway-Network) via the IoT service ThingSpeak. These scripts retrieve that data for long-term storage and analysis.
 
 These demonstrate:
  - pulling a user's list of channels from the API
